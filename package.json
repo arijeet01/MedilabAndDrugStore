@@ -1,0 +1,18 @@
+{
+  "name": "medilab-drugstore",
+  "version": "1.0.0",
+  "description": "This is prototype of The Medilab and Drug Store Management System to be done for Software Engineering Lab 2021-22",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arijeet Kumar Nayak",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.8"
+  }
+}
